@@ -9,6 +9,12 @@ Assignment1 sample outputs and inference.ppt:
 
 • It contains the final recommended model for the multi layer perceptron along with the settings and performance.
 
+mlp compare.xlsv:
+
+• Excel contains the readings obtained while comparing different sets of parameters.
+
+• The readings for each type are recorded and stored in separate sheets within this excel.
+
 compare_lr.ipynb:
 
 • Sample of comparison and plot made from recordings
