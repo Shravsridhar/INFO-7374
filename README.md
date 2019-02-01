@@ -10,20 +10,21 @@ Assignment1 sample outputs and inference.ppt:
 • It contains the final recommended model for the multi layer perceptron along with the settings and performance.
 
 compare_lr.ipynb:
+
 • Sample of comparison and plot made from recordings
 
 Image Augmentation Report.pdf:
+
 • Report for Team Assignment
 
-File names 
-CNN Model: cnn_cifar
+• https://github.com/Shravsridhar/CNN_CIFAR10/blob/master/data_aug%20(1).ipynb
 
-MLP Model: mlp_cifar
 
-DATA AUGMENTATION IMPLEMENTATION: data_aug
 
 NOTE:
 
 • In addition, I compared MLP with CNN and code is available for both.
+
+• https://github.com/Shravsridhar/CNN_CIFAR10/blob/master/cnn_cifar10%20(1).ipynb --> Final CNN Model Recommended.
 
 • Comparison is available in final slides of PPT.
