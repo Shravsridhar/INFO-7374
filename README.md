@@ -25,7 +25,9 @@ Image Augmentation Report.pdf:
 
 • https://github.com/Shravsridhar/CNN_CIFAR10/blob/master/data_aug%20(1).ipynb
 
+Data Augmentation Code:
 
+data_aug file
 
 NOTE:
 
