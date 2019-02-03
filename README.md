@@ -25,6 +25,8 @@ Image Augmentation Report.pdf:
 
 • https://github.com/Shravsridhar/CNN_CIFAR10/blob/master/data_aug%20(1).ipynb
 
+• https://www.youtube.com/watch?v=IiEqd8UuVKM&feature=youtu.be
+
 
 
 NOTE:
