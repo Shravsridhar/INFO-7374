@@ -27,6 +27,9 @@ Image Augmentation Report.pdf:
 
 • Video: https://www.youtube.com/watch?v=IiEqd8UuVKM&feature=youtu.be
 
+Sample observations.pdf:
+
+• Sample recorded observations for Data Augmentation along with snapshots
 
 
 NOTE:
